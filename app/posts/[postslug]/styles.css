@@ -1,0 +1,22 @@
+.comment-card-container {
+    text-align: center;
+}
+
+.post-text {
+    color: gray;
+     margin-left: 20%;
+      margin-right: 20%;
+}
+
+.person-comment{
+    min-height: 400px;
+     background: aliceblue;
+      text-align: left;
+      padding: 16px;
+}
+
+.comment-margin {
+    margin: 16px;
+}
+
+
